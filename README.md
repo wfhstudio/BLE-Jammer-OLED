@@ -1,1 +1,11 @@
 # BLE-Jammer-OLED
+
+Double Jammer 
+/* OLED 
+SDA D21
+SCL D22
+
+NRF24
+NRF24-1 HSPI=SCK = 14, MISO = 12, MOSI = 13, CS = 15 , CE = 26
+NRF24-2 VSPI=SCK = 18, MISO =19, MOSI = 23 ,CS =2 ,CE = 4
+*/
